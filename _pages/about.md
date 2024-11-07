@@ -13,4 +13,3 @@ I'm a forth year undergraduate student from [School of S.M](https://tsxy.zuel.ed
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email](hyzhang@stu.zuel.edu.cn)  / [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=gYMOkGYAAAAJ)
-————————————————
